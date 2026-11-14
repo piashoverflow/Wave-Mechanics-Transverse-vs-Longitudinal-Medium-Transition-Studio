@@ -1,0 +1,6 @@
+{
+  "name": "Wave Mechanics, Transverse vs Longitudinal & Medium Transition Studio",
+  "description": "Interactive physics simulation studio for exploring transverse vs longitudinal particle dynamics, wave energy flux, 3D electromagnetic waves, and medium boundary transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
